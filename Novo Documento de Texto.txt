@@ -1,0 +1,4 @@
+card = int(input('Qual numero do seu cartão:'))
+data = int(input('Qual data de vallidade do cartão:'))
+cvv = int(input('Qual seu cvv do seu cartão:'))
+print('O Numero do seu cartão é {} sua datade validade é {} é seu cvv é {} esta tudu certo!'.format(card,data,cvv) )
